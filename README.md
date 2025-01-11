@@ -57,20 +57,36 @@ The objectives of this project include:
 
 ---
 
-
-
-
 ## **Results**
-- Description of the final outcomes of the project.
-- Screenshots or images can be added to showcase the results.
+- A fully functional osTicket system that enables the simulation of ticket creation and resolution. This system will streamline user support by managing ticket lifecycles efficiently.
 
----
+## **Screenshots of results**
+<p>Set up of the roles:</p> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/b155c228-90f8-4faf-9634-dc02e8a5395c" alt="image" style="max-width:100%; height:auto;"/> 
+</div> 
+<p>Set up of the departments and teams:</p> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/a9455640-dee3-425a-a237-957ba3e4c13d" alt="image" style="max-width:100%; height:auto;"/> 
+</div> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/42149f11-e953-4c49-9586-9f6646db18cf" alt="image" style="max-width:100%; height:auto;"/> 
+</div> 
+<p>Set up of Agents and Users:</p> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/67f18a0f-5f1c-43c9-8f89-319258f217c6" alt="image" style="max-width:100%; height:auto;"/> 
+</div> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/e9dfe7a1-a5f4-4000-9934-3946e454d79b" alt="image" style="max-width:100%; height:auto;"/> 
+</div> 
+<p>Set up of the SLAs and Help Topics:</p> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/b157c6b4-c592-4e13-98ed-75bba6882a45" alt="image" style="max-width:100%; height:auto;"/> 
+</div> 
+<div align="center"> <img src="https://github.com/user-attachments/assets/ff9beb03-6017-42cb-aa45-7a7378a60026" alt="image" style="max-width:100%; height:auto;"/> 
+</div> 
 
-## **Key Learnings**
-- Learning Outcome 1
-- Learning Outcome 2
-- Learning Outcome 3 (if applicable)
 
----
 
-## **Screenshots**!
+
+
+
+
+
+
+
+
